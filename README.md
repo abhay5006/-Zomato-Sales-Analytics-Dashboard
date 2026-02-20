@@ -67,5 +67,5 @@ Total Orders: 150K
 Active Users: 78K
 
 6. Screenshots / Demos
-
+https://github.com/abhay5006/-Zomato-Sales-Analytics-Dashboard/blob/main/Zomato_dashboard_Snapshot.png
 
